@@ -1,0 +1,10 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\bin\Debug\AtomicTime.exe.config
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\bin\Debug\AtomicTime.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\bin\Debug\AtomicTime.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\AtomicTime\AtomicTime\obj\Debug\AtomicTime.pdb
